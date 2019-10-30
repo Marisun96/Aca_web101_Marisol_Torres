@@ -1,0 +1,29 @@
+/h1{
+    width: 60%;
+    margin: 5% auto;
+}
+body {
+
+}
+main {
+background: pink;
+width: 60%;
+margin: 5% auto;
+}
+article {
+margin: 1% auto;
+    border: solid purple 2px;
+background: white;
+width: 60%;
+}
+article > h3 {
+    font-size: 1em;
+}
+article:hover {
+    background: grey;
+}
+
+
+
+
+
