@@ -1,0 +1,30 @@
+html { 
+  background: url(./Road.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.content {
+background-color: rgb(0,0,0,0.7);
+padding: 25px;
+ color: white;
+ height: 700px;
+ width: 300px;
+ margin: 100px auto;
+ font-family: 'Solway', serif;
+}
+
+.profile-pic {
+  height: 150px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+.name {
+  font-family: 'Alatsi', sans-serif;
+}
+
+.job {
+  font-family: 'Alatsi', sans-serif;
+}
